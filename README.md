@@ -4,7 +4,7 @@ Welcome to Fix Health's Dark Mode Landing Page!
 
 Step into a world of wellness with our new look. Dive into our services, tips, and more, all designed for effortless browsing. Say goodbye to eye strain and hello to a healthier experience. Welcome to Fix Health - where your journey to wellness begins in the dark!
 
-**App Deployed Link:** [Fix Health](https://fixhealth-omega.vercel.app/)
+**App Deployed Link:** [Fix Health](https://fixhealth-pi.vercel.app/)
 
 ## Key Features
 
