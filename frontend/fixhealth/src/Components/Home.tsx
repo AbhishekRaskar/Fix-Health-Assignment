@@ -151,7 +151,7 @@ const Home = () => {
             />
           </InputGroup>
           <br />
-          <Button color={"white"} onClick={handleBookNowClick}>
+          <Button bg={"#2C3E50"} color={"white"} onClick={handleBookNowClick}>
             Book Now
           </Button>
         </Box>
