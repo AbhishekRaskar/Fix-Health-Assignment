@@ -58,10 +58,10 @@ const Doctors = () => {
 
   return (
     <Flex direction="column" align="center" mt={8}>
-      <Heading as="h1" mb={4}>
+      <Heading color={"black"} as="h1" mb={4}>
         Meet Our Doctors
       </Heading>
-      <Text fontSize={"20px"}>
+      <Text color={"white"} fontSize={"20px"}>
         Experience the Benefits of Advanced Technology and Expert Care
       </Text>
       <br />
